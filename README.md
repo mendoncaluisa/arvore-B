@@ -1,7 +1,7 @@
 ## Trabalho Prático de Estrutura de Dados II 
 ### Aluna: Maria Luísa Mendonça
 ### Objetivos:
- + Implementar um sistema que simula a estrutura de dados árvore B O seguindo os seguintes requisitos:
+ + Implementar um sistema que simula a estrutura de dados árvore B seguindo os seguintes requisitos:
    + O sistema tem uma memória de tamanho 64 Mbytes;
    + Cada bloco (página) contém 8 Kbytes;
    + Considere os conceitos e algoritmos a respeito da estrutura de dados árvore B de [CORMEN, 2002].
